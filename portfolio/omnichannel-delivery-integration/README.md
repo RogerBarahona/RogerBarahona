@@ -2,6 +2,8 @@
 
 > **Sanitized case study:** This overview is based on Roger Barahona’s documented professional experience. It intentionally excludes confidential, proprietary, and employer-sensitive information.
 
+![Omnichannel Delivery Integration case study infographic](./omnichannel-delivery-integration.png)
+
 ## Overview
 
 During my Subway tenure, I worked on restaurant technology initiatives connecting **third-party delivery channels with the POS ecosystem**, including integrations with **Uber Eats and DoorDash**. My broader work also included curbside ordering and an omnichannel environment spanning in-store POS, mobile ordering, delivery, and loyalty.
