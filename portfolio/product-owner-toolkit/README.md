@@ -2,6 +2,8 @@
 
 > **Portfolio artifact:** This toolkit summarizes the product practices documented across Roger Barahona’s professional experience. It contains no confidential employer artifacts or proprietary information.
 
+![Product Owner Toolkit infographic](./product-owner-toolkit.png)
+
 ## Overview
 
 My product approach is built around a simple principle:
