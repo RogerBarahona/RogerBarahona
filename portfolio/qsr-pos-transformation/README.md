@@ -2,6 +2,8 @@
 
 > **Sanitized case study:** This overview is based on Roger Barahona’s documented professional experience. It intentionally excludes confidential, proprietary, and employer-sensitive information.
 
+![Global QSR POS Transformation case study infographic](./qsr-pos-transformation.png)
+
 ## Overview
 
 As a **Senior Product Owner at Subway (2023–2025)**, I worked across a global POS and omnichannel restaurant technology ecosystem supporting **30,000+ restaurants**. The product environment connected in-store POS, mobile ordering, third-party delivery, and loyalty while serving markets with different operational and business needs.
